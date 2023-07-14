@@ -1,0 +1,11 @@
+<resources>
+    <string name="note_title">Title</string>
+    <string name="note_content">Notes</string>
+    <string name="save">Save</string>
+    <string name="add_note">Add Note</string>
+
+    <string name="screen_title_notes">Notes</string>
+    <string name="screen_title_quotes">Quotes</string>
+    <string name="provide_details">Please provide required details</string>
+
+</resources>
