@@ -22,3 +22,22 @@ Architecture
 
 ![image](https://github.com/iselvaji/NotesApp/assets/28477412/6db2ac31-d842-41a9-8b2e-999a9a902939)
 
+
+# Shared 
+
+Data layer
+
+Ktor client library is used to communicate with Rest Api client.
+Sqldelight library used for database
+Repository classes used to communcate with data sources
+
+Business/Domain layer
+
+Usecases for Notes, Notes details and Quotes which communcates to repository layer
+
+Viewmodel
+
+Shared view model for Notes, NotesDetails and Quotes which handle the corresponding events recevived from UI layer
+Viewmodel responds the results as a Basic UI state and UI effect.
+
+
