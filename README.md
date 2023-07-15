@@ -19,3 +19,6 @@ Quotes:
 - User can see the quotes fetched from https://zenquotes.io/
 
 Architecture
+
+![image](https://github.com/iselvaji/NotesApp/assets/28477412/6db2ac31-d842-41a9-8b2e-999a9a902939)
+
