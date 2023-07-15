@@ -28,7 +28,7 @@ https://github.com/iselvaji/NotesApp/assets/28477412/e222a863-0bda-4c66-984e-f6e
 ![image](https://github.com/iselvaji/NotesApp/assets/28477412/6db2ac31-d842-41a9-8b2e-999a9a902939)
 
 
-# Shared 
+**Shared** 
 
 Data layer
 
@@ -48,22 +48,20 @@ Viewmodel responds the results as a Basic UI state and UI effect.
 DI
 Koin framework is used for dependency injection
 
-# Android App
+**Android App**
 
 Compose based UI for Notes, Notedetails and Quotes screen
 Screens communicate with Shared viewmodels and observe the data changes as a state in compose functions.
 
-# IOS App
+**IOS App**
 
 Swift UI based design for Notes, Notedetails and Quotes screen
 UI communicate with Shared viewmodels and observe the state changes (ObservedObject) which are published
 
 
-# Server
+**Server**
 
 Notes data is saved and retrived in server code written using Ktror server and SQL database.
 Server code available in https://github.com/iselvaji/Notesapp-server
-
-
 
 
