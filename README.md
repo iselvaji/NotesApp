@@ -10,4 +10,12 @@ Features:
 90% of the code is shared: data, business logic, Viewmodel are written in Kotlin
 Only UI is written in Android and IOS native code.
 
+Notes:
+- User can create new note by clicking on Floating Action Button
+- Notes are saved to local [shared] database and sync with server
+- User can delete the notes
 
+Quotes:
+- User can see the quotes fetched from https://zenquotes.io/
+
+Architecture
